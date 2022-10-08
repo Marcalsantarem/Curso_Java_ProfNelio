@@ -46,7 +46,7 @@ public class MainDatasFormat {
 		
 		DateTimeFormatter fmt11 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 		DateTimeFormatter fmt12 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
-		DateTimeFormatter fmt13 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());
+		DateTimeFormatter fmt13 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss").withZone(ZoneId.systemDefault());
 		DateTimeFormatter fmt14 = DateTimeFormatter.ISO_DATE_TIME;
 		DateTimeFormatter fmt15 = DateTimeFormatter.ISO_INSTANT;
 		
