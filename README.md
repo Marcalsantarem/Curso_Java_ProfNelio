@@ -1,3 +1,3 @@
 # Curso_Java_ProfNelio
 
-Repositório contendo os exercícios propostos nos módulos de Java desktop do curso https://www.udemy.com/course/java-curso-completo/
+This repository contains the Java desktop modules's exercises from the online course https://www.udemy.com/course/java-curso-completo/
